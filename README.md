@@ -3,4 +3,4 @@ a easy way to work together on a youtube playlist while simultaniously plays (wo
 
 --
 
-It works.. but was made as a fast first try, so incredibly changes needed
+It works.. but was made as a fast first try, so incredible changes needed
